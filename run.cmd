@@ -1,1 +1,1 @@
-haehae
+javac -d bin Main
